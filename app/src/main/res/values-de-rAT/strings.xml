@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationAssignment</string>
+    <string name="greetingMsg">Ich hoffe es geht dir gut !!</string>
+    <string name="welcome">Willkommen bei GlobalLogic!</string>
+    <string name="contactAdmin">Weitere Informationen erhalten Sie vom Administrator</string>
+</resources>
